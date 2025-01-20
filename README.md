@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gal Lankri</h1>
 <h3 align="center">A Full-Stack developer from Israel</h3>
 
-- 🌱 I continue to learn and develop my skills in **React.js and Angular.js.**
+- 🌱 I continue to learn and develop my skills in **C#, ASP.NET Core, React.js.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gal-lankri](https://github.com/Gal-lankri)
 
